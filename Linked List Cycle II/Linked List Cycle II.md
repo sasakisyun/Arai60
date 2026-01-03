@@ -1,4 +1,4 @@
-'''python
+```python
 
 # Definition for singly-linked list.
 # class ListNode:
@@ -20,7 +20,7 @@ class Solution:
                     fast = fast.next
                 return slow
         return None
-'''
+```
 
 感想など
 ・アルゴリズムについての知識が全然ないので、このアルゴリズムも初見だった。あまり直感的に受け入れられないが、とりあえずそういうものだと思って覚えるしかないと思った。
