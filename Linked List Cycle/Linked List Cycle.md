@@ -1,4 +1,4 @@
-"""python
+```python
 class Solution:
     def hasCycle(self, head: Optional[ListNode]) -> bool:
         if head is None:
@@ -15,7 +15,7 @@ class Solution:
 
         return False
 
-"""
+```
 
 感想
 ・まずLeetCodeの使い方がわからなかったので、その確認になった。大学の授業では、コードを最初から最後まで書いたが、LeetCodeではclassの中身を書けば良いのだと分かった（AIに聞いた)。
